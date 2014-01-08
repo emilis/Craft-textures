@@ -15,4 +15,4 @@ Created using the current 16×16px textures and Creative-Commons licensed images
 
 - [Textures.cs](http://textures.cc/)
 - [Texture Warehouse](http://www.texturewarehouse.com/)
-
+- [AlMare](http://commons.wikimedia.org/wiki/User:AlMare)
